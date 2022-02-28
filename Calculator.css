@@ -1,0 +1,8 @@
+#container {
+    display: flex;
+    border: 5px solid black;
+    padding: auto;
+    margin: auto;
+    width: 25%;
+    height: 50%;
+}
