@@ -1,8 +1,13 @@
 #container {
     display: flex;
+    flex: row;
     border: 5px solid black;
-    padding: auto;
     margin: auto;
     width: 25%;
     height: 50%;
+}
+#interface {
+    background-color: rgba(145, 188, 105,.5);
+    border: 2px solid black;
+    width: 100%;
 }
