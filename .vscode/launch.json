@@ -11,7 +11,8 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/Calculator.js"
+            "program": "${workspaceFolder}/Calculator.js",
+            "console": "integratedTerminal"
         }
     ]
 }
